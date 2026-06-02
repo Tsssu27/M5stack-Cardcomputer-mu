@@ -1,0 +1,24 @@
+# Build
+build/
+*.elf
+*.bin
+*.hex
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+mu_config.json
+
+# Tools (users install themselves)
+tools/
+
+# Personal instructions
+CLAUDE.md
